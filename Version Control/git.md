@@ -1,4 +1,5 @@
-**What and why of version control?
+What and why of version control?
+---------------------------------
 
 It is a mechanism to control different versions of a applications and 
 keep the codes that run on production safe from that of the ones
@@ -11,7 +12,8 @@ running in production environment.
 
 The most popular version controlling tool in GIT about which we will be discussing here.
 
-**How to get version controlling tools to work on your local devices?
+How to get version controlling tools to work on your local devices?
+--------------------------------------------------------------------
 
 For linux users:
 -----------------
