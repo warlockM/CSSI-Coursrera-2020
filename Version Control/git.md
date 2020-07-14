@@ -1,0 +1,30 @@
+#What and why of version control?
+
+It is a mechanism to control different versions of a applications and 
+keep the codes that run on production safe from that of the ones
+under development vresion.
+
+Seperate copies of the code are maintained at any given point of time for a particular application.
+Version controlling allows multiple to have their own local copy of the repository on their devices.
+This allows them to collaborate and work on new features without affecting the the actual application
+running in production environment.
+
+The most popular version controlling tool in GIT about which we will be discussing here.
+
+#How to get version controlling tools to work on your local devices?
+
+For linux users:
+-----------------
+1. Via binary files from the package manager.
+2. For Debian OS:
+	>sudo apt install git-all
+3. For RPM based Distro:
+	>sudo dnf install git-all
+	
+For Windows Users:
+------------------
+	Just go to https://git-scm.com/download/win and the download will start automatically.
+	
+For MAC users:
+---------------
+	Just go to https://git-scm.com/download/mac and the download will start automatically.
