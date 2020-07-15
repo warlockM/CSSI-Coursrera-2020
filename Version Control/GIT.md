@@ -45,6 +45,8 @@ Git command for beginners!
 ---------------------------
 >`git clone url`
 
+![](Example 4.JPG)
+
 This command creates a local copy of git repository on your system.
 
 >`git add filename.extension`
