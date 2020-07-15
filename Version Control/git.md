@@ -71,4 +71,11 @@ This command shows the list commits done previously from local copy
 
 ![](Example3.JPG)
 
+Difference between GIT and GitHub
+-----------------------------------
+`Git` is a revision control system, a tool to manage your source code history.
+
+`GitHub` is a hosting service for Git repositories.
+
+So they are not the same thing: `Git` is the tool, `GitHub` is the service for projects that use Git.
 
