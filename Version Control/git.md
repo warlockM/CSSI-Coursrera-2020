@@ -19,9 +19,9 @@ For linux users:
 -----------------
 1. Via binary files from the package manager.
 2. For Debian OS:
-	>sudo apt install git-all
+	>`sudo apt install git-all`
 3. For RPM based Distro:
-	>sudo dnf install git-all
+	>`sudo dnf install git-all`
 	
 For Windows Users:
 ------------------
@@ -40,38 +40,42 @@ The image below best describes how to get ready to use git.
 
 Git command for beginners!
 ---------------------------
->git clone url
+>`git clone url`
 
 This command creates a local copy of git repository on your system.
 
->git add filename.extension
+>`git add filename.extension`
 
 
 >git commit -m "Some message assosiated with the changes made"
 
 This command saves the changes made in local copy of repository.
 
->git push
-`no parameter needed for working within cloned git folders`
+>`git push`
+**no parameter needed for working within cloned git folders**
 
 This command sends all updated data including files and folders from local copy of repository 
 to the master branch.
 
 ![](Example.JPG)
 
->git status
+>`git status`
 
 This command shows the current repository we are working with and have recently commited to.`
 
 ![](Example2.JPG)
 
->git log
+>`git log`
 
 This command shows the list commits done previously from local copy
 
 ![](Example3.JPG)
 
-Difference between GIT and GitHub
+Branches in `GIT`
+-----------------
+
+
+Difference between `GIT` and `GitHub`
 -----------------------------------
 `Git` is a revision control system, a tool to manage your source code history.
 
