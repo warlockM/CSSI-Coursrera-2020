@@ -86,5 +86,5 @@ Difference between `GIT` and `GitHub`
 
 So they are not the same thing: `Git` is the tool, `GitHub` is the service for projects that use Git.
 
-[x] `GIT` == `GitHub`
+-[x] `GIT` == `GitHub`
 
