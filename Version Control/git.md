@@ -25,7 +25,7 @@ For linux users:
 	
 For Windows Users:
 ------------------
-	Just go to [https://git-scm.com/download/win](https://git-scm.com/download/win) and the download will start automatically.
+	Just go to https://git-scm.com/download/win and the download will start automatically.
 	
 For MAC users:
 ---------------
