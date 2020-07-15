@@ -33,3 +33,6 @@ For MAC users:
 	
 How does version control work?
 -------------------------------
+It is based on Distributed graph theory tree model. It connects multiple colloborators to a project.
+The image below best describes how to get ready to use git.
+
