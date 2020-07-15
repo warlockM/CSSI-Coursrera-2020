@@ -30,3 +30,6 @@ For Windows Users:
 For MAC users:
 ---------------
 	Just go to https://git-scm.com/download/mac and the download will start automatically.
+	
+How does version control work?
+-------------------------------
