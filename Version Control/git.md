@@ -57,18 +57,18 @@ This command saves the changes made in local copy of repository.
 This command sends all updated data including files and folders from local copy of repository 
 to the master branch.
 
-![](Example.png)
+![](Example.JPG)
 
 >git status
 
 This command shows the current repository we are working with and have recently commited to.`
 
-![](Example2.jpeg)
+![](Example2.JPG)
 
 >git log
 
 This command shows the list commits done previously from local copy
 
-![](Example3.jpeg)
+![](Example3.JPG)
 
 
