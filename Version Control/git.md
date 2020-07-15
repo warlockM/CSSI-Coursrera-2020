@@ -63,12 +63,12 @@ to the master branch.
 
 This command shows the current repository we are working with and have recently commited to.`
 
-![](Example2.jpg)
+![](Example2.jpeg)
 
 >git log
 
 This command shows the list commits done previously from local copy
 
-![](Example3.png)
+![](Example3.jpeg)
 
 
