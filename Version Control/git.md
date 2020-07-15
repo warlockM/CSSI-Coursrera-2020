@@ -10,6 +10,9 @@ Version controlling allows multiple to have their own local copy of the reposito
 This allows them to collaborate and work on new features without affecting the the actual application
 running in production environment.
 
+To understand better, we can say that version control helps us to take the snapshot of our current 
+progress in a development environment.
+
 The most popular version controlling tool in GIT about which we will be discussing here.
 
 How to get version controlling tools to work on your local devices?
@@ -82,4 +85,6 @@ Difference between `GIT` and `GitHub`
 `GitHub` is a hosting service for Git repositories.
 
 So they are not the same thing: `Git` is the tool, `GitHub` is the service for projects that use Git.
+
+[x] `GIT` == `GitHub`
 
