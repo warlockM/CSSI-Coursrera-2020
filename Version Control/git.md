@@ -36,3 +36,23 @@ How does version control work?
 It is based on Distributed graph theory tree model. It connects multiple colloborators to a project.
 The image below best describes how to get ready to use git.
 
+
+Git command for beginners!
+---------------------------
+>git clone "url"
+'without double quotes'
+This command creates a local copy of git repository on your system.
+
+>git add <filename.extension>
+'without angular brackets'
+
+>git commit -m "Some message assosiated with the changes made"
+'with double quotes'
+
+This command saves the changes made in local copy of repository.
+
+>git push
+'no parameter needed for working within cloned git folders'
+
+This command sends all updated data including files and folders from local copy of repository 
+to the master branch.
