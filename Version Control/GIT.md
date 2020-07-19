@@ -94,7 +94,11 @@ If by any chance you with to get back to the previous commit or reset to previou
 
 >`git log` use this command to see the
 
->`git reset --hard 0ascd8098` where **"0ascd8098"** is the substring of commit hash of you commit that want to revert back to.g
+![](Images/log.JPG)
+
+>`git reset --hard 0ascd8098` where **"0ascd8098"** is the substring of commit hash of you commit that want to revert back to.
+
+![](Images/reset.JPG)
 
 Difference between `GIT` and `GitHub`
 -----------------------------------
