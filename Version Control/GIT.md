@@ -86,6 +86,10 @@ Branches are created for purposes like debugging, improvising or adding new feat
 which is already released. It helps the developers/ collaborators to keep the application up and running while working on different
 features of the application.
 
+>`git branch new_branch_name` creates a new branch with the new_branch_name.
+
+>`git checkout new_branch_name` takes you to this new branch where you can make changes without affecting the repo you've been working on.
+
 Difference between `GIT` and `GitHub`
 -----------------------------------
 `Git` is a revision control system, a tool to manage your source code history.
