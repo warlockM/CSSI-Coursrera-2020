@@ -45,7 +45,7 @@ Git command for beginners!
 ---------------------------
 >`git clone url`
 
-![](Example4.JPG)
+![](Images/Example4.JPG)
 
 This command creates a local copy of git repository on your system.
 
@@ -62,19 +62,19 @@ This command saves the changes made in local copy of repository.
 This command sends all updated data including files and folders from local copy of repository 
 to the master branch.
 
-![](Example.JPG)
+![](Images/Example.JPG)
 
 >`git status`
 
 This command shows the current repository we are working with and have recently commited to.`
 
-![](Example2.JPG)
+![](Images/Example2.JPG)
 
 >`git log`
 
 This command shows the list commits done previously from local copy
 
-![](Example3.JPG)
+![](Images/Example3.JPG)
 
 Branches in `GIT`
 -----------------
