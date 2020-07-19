@@ -90,6 +90,12 @@ features of the application.
 
 >`git checkout new_branch_name` takes you to this new branch where you can make changes without affecting the repo you've been working on.
 
+If by any chance you with to get back to the previous commit or reset to previous desired state,
+
+>`git log` use this command to see the
+
+>`git reset --hard 0ascd8098` where **"0ascd8098"** is the substring of commit hash of you commit that want to revert back to
+
 Difference between `GIT` and `GitHub`
 -----------------------------------
 `Git` is a revision control system, a tool to manage your source code history.
